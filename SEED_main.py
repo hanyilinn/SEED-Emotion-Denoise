@@ -1,4 +1,4 @@
-from New_SEED_utils import build_preprocessed_eeg_dataset_CNN, RawEEGDataset, subject_independent_data_split
+from SEED_utils import build_preprocessed_eeg_dataset_CNN, RawEEGDataset, subject_independent_data_split
 import numpy as np
 import torch
 import torch.nn as nn
