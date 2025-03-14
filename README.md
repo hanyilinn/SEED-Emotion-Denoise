@@ -21,5 +21,5 @@ To run the experiments, ensure that you have the following dependencies installe
 
 ## References
 1. **Zheng, Wei-Long, and Bao-Liang Lu**. "Investigating critical frequency bands and channels for EEG-based emotion recognition with deep neural networks." *IEEE Transactions on Autonomous Mental Development*, 7.3 (2015): 162-175. [Link to paper](https://ieeexplore.ieee.org/abstract/document/7104132)
-2. **Ding, Yi, et al.** "TSception: Capturing temporal dynamics and spatial asymmetry from EEG for emotion recognition." *IEEE Transactions on Affective Computing*, 14.3 (2022): 2238-2250. [Link to paper](https://ieeexplore.ieee.org/document/9751782)
-3. **Schirrmeister, Robin Tibor, et al.** "Deep learning with convolutional neural networks for EEG decoding and visualization." *Human Brain Mapping*, 38.11 (2017): 5391-5420. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23706)
+2. **Ding, Yi, et al.** "TSception: Capturing temporal dynamics and spatial asymmetry from EEG for emotion recognition." *IEEE Transactions on Affective Computing*, 14.3 (2022): 2238-2250. [Link to paper](https://ieeexplore.ieee.org/abstract/document/9762054)
+3. **Schirrmeister, Robin Tibor, et al.** "Deep learning with convolutional neural networks for EEG decoding and visualization." *Human Brain Mapping*, 38.11 (2017): 5391-5420. [Link to paper](https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.23730)
